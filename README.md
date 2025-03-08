@@ -13,7 +13,6 @@
 
 * 🔭 Atualmente estudo Beck End, Banco de dados e Front end
 <br>
-
 <br>
 * 💬 Pergunte-me sobre: Desenvolvimento Back-end, Estruturas de Dados e Banco Relacional
 <br>

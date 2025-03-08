@@ -15,7 +15,7 @@
 <br>
 
 <br>
-* 💬 Pergunte-me sobre: Python, 
+* 💬 Pergunte-me sobre: Python
 <br>
 
 <br>

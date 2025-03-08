@@ -3,15 +3,19 @@
   <img align='right' src="https://github.com/user-attachments/assets/031eff07-c067-47d6-84d9-1b7930f63390" width="100%" height="100%">
 </p>
 
+
+<br>
 <br>
 <br>
 <br>
 <br>
 
-* 🔭 Atualmente estudo Beck End, Banco de dados e Front end
 <br>
+* 🔭 Atualmente estudo Python e Beck-End
 <br>
-* 💬 Pergunte-me sobre: Desenvolvimento Back-end, Estruturas de Dados e Banco Relacional
+
+<br>
+* 💬 Pergunte-me sobre: Python, 
 <br>
 
 <br>

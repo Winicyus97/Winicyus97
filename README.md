@@ -33,7 +33,7 @@
 <img  height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Winicyus97&layout=compact&theme=dracula" />
 </p>
 
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=DevAlexFR&theme=dracula" /></p>
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Winicyus97&theme=dracula" /></p>
 
 
 <h2 align="center"> 🎓 Minhas Habilidades </h2>

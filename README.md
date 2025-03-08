@@ -19,7 +19,7 @@
 <br>
 
 <br>
-🚀 Aqui no GitHub, você encontrará alguns dos meus projetos iniciais, onde aplico o que aprendo e experimento novas tecnologias. Sinta-se à vontade para explorar, dar feedback ou colaborar!
+🚀 Aqui no GitHub, você encontrará alguns dos meus projetos iniciais, onde coloco em pratica o que aprendo e experimento novas tecnologias. Sinta-se à vontade para explorar, dar feedback ou colaborar!
 <br>
 
 <br>
@@ -27,11 +27,7 @@
 <br>
 
 <br>
-🌟 Estou aberto a oportunidades de estágio, freelances ou projetos colaborativos. Se você está procurando alguém dedicado, curioso e pronto para aprender, vamos conversar!
-<br>
-
-<br>
-* 🔮 Procurando uma equipe ou organização onde eu possa aprender e desenvolver minhas habilidades
+🌟 Estou aberto a oportunidades de estágio, freelances, projetos colaborativos e  desenvolver minhas habilidades. Se você está procurando alguém dedicado, curioso e pronto para aprender, vamos conversar!
 <br>
 
 <br>

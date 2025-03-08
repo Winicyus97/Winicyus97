@@ -11,7 +11,7 @@
 <br>
 
 <br>
-* 🔭 Atualmente estudo Python e Beck-End
+* 🔭 Atualmente estudo Python, Beck-End e Banco de dados
 <br>
 
 <br>

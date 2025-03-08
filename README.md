@@ -39,12 +39,6 @@
 <h2 align="center"> 🎓 Minhas Habilidades </h2>
 <p align="center">
   <img src="https://img.icons8.com/color/30/python.png" alt="Python" />
-  <img src="https://img.icons8.com/?size=30&id=laYYF3dV0Iew&format=png&color=000000" alt="SQL Server" />
-  <img src="https://img.icons8.com/color/30/postgreesql.png" alt="PostgreSQL" />
-  <img src="https://img.icons8.com/?size=30&id=vR6XrZzQr1CN&format=png&color=000000" alt="MySQL" />
-  <img src="https://img.icons8.com/color/30/javascript.png" alt="JavaScript" />
-  <img src="https://img.icons8.com/color/30/html-5.png" alt="HTML" />
-  <img src="https://img.icons8.com/color/30/css3.png" alt="CSS" />
   <img src="https://img.icons8.com/?size=30&id=9OGIyU8hrxW5&format=png&color=000000" alt="Visual Studio Code" />
   <img src="https://img.icons8.com/color/30/git.png" alt="Git" />
   <img src="https://img.icons8.com/?size=30&id=g7P0iny5Rros&format=png&color=000000" alt="GitHub" />

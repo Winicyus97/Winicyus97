@@ -1,6 +1,6 @@
 <h1 align="center" font-size="50px"> Olá! sou Alex Flores! <img src="https://github.com/user-attachments/assets/39c89490-2739-4839-827b-161b598528f7" width="50"> <br> </h1>
 <p align="center">
-  <img align='right' src="(https://github.com/user-attachments/assets/031eff07-c067-47d6-84d9-1b7930f63390)" width="100%" height="100%">
+  <img align='right' src="https://github.com/user-attachments/assets/031eff07-c067-47d6-84d9-1b7930f63390" width="100%" height="100%">
 </p>
 
 

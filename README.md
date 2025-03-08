@@ -11,11 +11,23 @@
 <br>
 
 <br>
-* 🔭 Atualmente estudo Python, Beck-End e Banco de dados
+* 💻 Atualmente, estou focado em aprimorar minhas habilidades em Python, explorando conceitos como desenvolvimento web, automação, análise de dados e muito mais. Adoro resolver problemas e transformar ideias em código funcional.
+<br>
+
+<br>
+* 📚 Estou constantemente aprendendo e me atualizando, participando de cursos, bootcamps e projetos pessoais para expandir meu conhecimento. Meu objetivo é contribuir para projetos reais, colaborar com outros desenvolvedores e crescer profissionalmente
+<br>
+
+<br>
+🚀 Aqui no GitHub, você encontrará alguns dos meus projetos iniciais, onde aplico o que aprendo e experimento novas tecnologias. Sinta-se à vontade para explorar, dar feedback ou colaborar!
 <br>
 
 <br>
 * 💬 Pergunte-me sobre: Python
+<br>
+
+<br>
+🌟 Estou aberto a oportunidades de estágio, freelances ou projetos colaborativos. Se você está procurando alguém dedicado, curioso e pronto para aprender, vamos conversar!
 <br>
 
 <br>

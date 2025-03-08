@@ -53,7 +53,7 @@
 <h2 align="center"> 📬 Contate-me </h2>
 <p align="center">
   <a href="mailto:winicyus1997@gmail.com">
-    <img src="https://img.shields.io/badge/alexsandro77dev@gmail.com-%23EA4335.svg?&style=flat&logo=mail.ru&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/winicyus1997@gmail.com-%23EA4335.svg?&style=flat&logo=mail.ru&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Winicyus97">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=flat&logo=github&logoColor=white" alt="GitHub" />

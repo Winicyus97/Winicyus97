@@ -1,4 +1,4 @@
-<h1 align="center" font-size="50px"> Olá! sou Winicyus Henrique! <img src="https://github.com/user-attachments/assets/f14a05ec-0420-48be-a825-8c3bfbcf2db8" width="50"> <br> </h1>
+<h1 align="center" font-size="50px"> Olá! sou Winicyus Henrique ! <img src="https://github.com/user-attachments/assets/f14a05ec-0420-48be-a825-8c3bfbcf2db8" width="50"> <br> </h1>
 <p align="center">
   <img align='right' src="https://github.com/user-attachments/assets/031eff07-c067-47d6-84d9-1b7930f63390" width="100%" height="100%">
 </p>
@@ -16,7 +16,6 @@
 <br>
 
 * 🔭 Atualmente estudo Beck End, Banco de dados e Front end
- 
 <br>
 
 <br>

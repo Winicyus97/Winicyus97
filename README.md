@@ -52,14 +52,14 @@
 
 <h2 align="center"> 📬 Contate-me </h2>
 <p align="center">
-  <a href="mailto:alexsandro77dev@gmail.com">
+  <a href="mailto:winicyus1997@gmail.com">
     <img src="https://img.shields.io/badge/alexsandro77dev@gmail.com-%23EA4335.svg?&style=flat&logo=mail.ru&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/DevAlexFR">
+  <a href="https://github.com/Winicyus97">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/alexsandro-flores-rosa-76a615182">
+  <a href="https://www.linkedin.com/in/winicyus-henrique-399460274/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDevAlexFR&labelColor=%23697689&countColor=%2337d67a&style=flat" alt="Visitors" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FWinicyus97&labelColor=%23697689&countColor=%2337d67a&style=flat" alt="Visitors" />
 </p>

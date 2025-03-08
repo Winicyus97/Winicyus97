@@ -1,8 +1,9 @@
-<h1 align="center" font-size="50px"> Olá! sou Alex Flores! <img src="https://github.com/user-attachments/assets/39c89490-2739-4839-827b-161b598528f7" width="50"> <br> </h1>
+<h1 align="center" font-size="50px"> Olá! sou Winicyus Henrique! <img src="https://github.com/user-attachments/assets/10544005-22cf-4aa5-ab71-2912dd9613ba" width="50"> <br> </h1>
 <p align="center">
   <img align='right' src="https://github.com/user-attachments/assets/031eff07-c067-47d6-84d9-1b7930f63390" width="100%" height="100%">
 </p>
 
+![222252](https://github.com/user-attachments/assets/10544005-22cf-4aa5-ab71-2912dd9613ba)
 
 
 <br>

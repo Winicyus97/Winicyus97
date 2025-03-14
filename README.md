@@ -21,7 +21,7 @@
 <br>
 
 <br>
-🚀 Aqui no GitHub, você encontrará alguns dos meus projetos iniciais, onde coloco em pratica o que aprendo e experimento novas tecnologias. Sinta-se à vontade para explorar, dar feedback ou colaborar!
+🚀 Aqui no GitHub, você encontrará alguns dos meus projetos iniciais, onde coloco em pratica o que aprende e experimente novas tecnologias. Sinta-se à vontade para explorar, dar feedback ou colaborar!
 <br>
 
 <br>
